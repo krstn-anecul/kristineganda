@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Kristine Lucena | Marketing Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- NAVIGATION -->
+    <header class="navbar">
+        <a href="#home" class="logo">KL.</a>
+
+        <nav>
+            <a href="#about">About</a>
+            <a href="#experience">Experience</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+
+    <!-- HERO -->
+    <section id="home" class="hero">
+
+        <div class="hero-text">
+
+            <p class="eyebrow">MARKETING • BRAND • EVENTS</p>
+
+            <h1>
+                Hi, I'm<br>
+                <span>Kristine Lucena.</span>
+            </h1>
+
+            <p class="hero-description">
+                A creative marketing professional who turns ideas
+                into meaningful campaigns, experiences, and brand stories.
+            </p>
+
+            <div class="hero-buttons">
+                <a href="#projects" class="button primary">
+                    View My Work
+                </a>
+
+                <a href="#contact" class="button secondary">
+                    Let's Connect
+                </a>
+            </div>
+
+        </div>
+
+        <div class="hero-side">
+            <p>CREATIVE MARKETING GIRLIE</p>
+            <p>BASED IN MANILA, PHILIPPINES</p>
+        </div>
+
+    </section>
+
+
+    <!-- ABOUT -->
+    <section id="about" class="section about">
+
+        <div class="section-number">01</div>
+
+        <div class="section-content">
+
+            <p class="eyebrow">ABOUT ME</p>
+
+            <h2>
+                Creative ideas.<br>
+                Strategic execution.
+            </h2>
+
+            <p>
+                I'm Kristine Lucena, a marketing professional with a passion for building brands, creating campaigns, and turning ideas into meaningful experiences. My work combines creativity with strategy to help brands connect with their audiences.
+
+With experience in brand development, digital marketing, campaign execution, events, activations, CRM management, and content creation, I enjoy bringing projects from concept to execution. I'm always looking for opportunities to create work that is purposeful, engaging, and results-driven.
+ 
+            </p>
+
+            <p>
+                My experience spans marketing campaigns, event coordination,
+                brand development, CRM management, social media, and
+                administrative support.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <!-- EDUCATION -->
+    <section class="section education">
+
+        <div class="section-number">02</div>
+
+        <div class="section-content">
+
+            <p class="eyebrow">EDUCATION</p>
+
+            <h2><h3>Bachelor of Science in Business Administration</h3>
+
+<p class="highlight">Major in Marketing Management</p>
+
+<p>Rizal Technological University – Boni Campus</p>
+
+<p class="achievement">Cum Laude</p>
+</h2>
+
+            <div class="info-card">
+
+                <h3>
+                    Bachelor of Science in Business Administration
+                </h3>
+
+                <p class="highlight">
+                    Major in Marketing Management
+                </p>
+
+                <p>
+                    Rizal Technological University – Boni Campus
+                </p>
+
+                <p class="achievement">
+                    Cum Laude
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- EXPERIENCE -->
+    <section id="experience" class="section experience">
+
+        <div class="section-number">03</div>
+
+        <div class="section-content">
+
+            <p class="eyebrow">EXPERIENCE</p>
+
+            <h2>
+                Where strategy<br>
+                meets execution.
+            </h2>
+
+
+            <div class="experience-item">
+
+                <div class="experience-date">
+                    2026
+                </div>
+
+                <div>
+                    <h3>Brand Development Officer</h3>
+
+                    <p class="company">
+                        MIDEA Corporation
+                    </p>
+
+                    <p>
+                        Supported brand development initiatives,
+                        marketing activities, campaigns, and
+                        promotional executions.
+                    </p>
+                </div>
+
+            </div>
+
+
+            <div class="experience-item">
+
+                <div class="experience-date">
+                    2025–2026
+                </div>
+
+                <div>
+                    <h3>Marketing & Events Associate</h3> 
+                    Coordinated marketing projects, events, suppliers, promotional materials, and on-ground activations. Managed project requirements from planning and coordination through execution to ensure smooth and timely delivery.
+
+
+                    <p class="company">
+                        Marketing & Events
+                    </p>
+
+                    <p>
+                        Coordinated marketing projects, events,
+                        suppliers, activations, and campaign
+                        requirements from planning through execution.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="experience-item">
+
+                <div class="experience-date">
+                    PROJECT-BASED
+                </div>
+
+                <div>
+
+                    <h3>Marketing & Administrative Projects</h3>
+
+                    <p class="company">
+                        Various Projects
+                    </p>
+
+                    <p>
+                        Worked on CRM management, digital marketing,
+                        content development, inventory tracking,
+                        event coordination, and administrative
+                        support.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- SKILLS -->
+    <section id="skills" class="section skills">
+
+        <div class="section-number">04</div>
+
+        <div class="section-content">
+
+            <p class="eyebrow">SKILLS</p>
+
+            <h2>
+                What I bring<br>
+                to the table.
+            </h2>
+
+            <div class="skills-grid">
+
+```
+<div class="skill">
+    <span>01</span>
+    <h3>Brand Development</h3>
+</div>
+
+<div class="skill">
+    <span>02</span>
+    <h3>Campaign Management</h3>
+</div>
+
+<div class="skill">
+    <span>03</span>
+    <h3>Digital Marketing</h3>
+</div>
+
+<div class="skill">
+    <span>04</span>
+    <h3>Events & Activations</h3>
+</div>
+
+<div class="skill">
+    <span>05</span>
+    <h3>Content & Social Media</h3>
+</div>
+
+<div class="skill">
+    <span>06</span>
+    <h3>CRM Management</h3>
+</div>
+
+<div class="skill">
+    <span>07</span>
+    <h3>Marketing Coordination</h3>
+</div>
+
+<div class="skill">
+    <span>08</span>
+    <h3>Microsoft Office & Google Workspace</h3>
+</div>
+```
+
+</div>
+
+
+                <div class="skill">
+                    <span>01</span>
+                    <h3>Brand Development</h3>
+                </div>
+
+                <div class="skill">
+                    <span>02</span>
+                    <h3>Digital Marketing</h3>
+                </div>
+
+                <div class="skill">
+                    <span>03</span>
+                    <h3>Campaign Management</h3>
+                </div>
+
+                <div class="skill">
+                    <span>04</span>
+                    <h3>Events & Activations</h3>
+                </div>
+
+                <div class="skill">
+                    <span>05</span>
+                    <h3>Social Media</h3>
+                </div>
+
+                <div class="skill">
+                    <span>06</span>
+                    <h3>CRM Management</h3>
+                </div>
+
+                <div class="skill">
+                    <span>07</span>
+                    <h3>Content Creation</h3>
+                </div>
+
+                <div class="skill">
+                    <span>08</span>
+                    <h3>Microsoft Office & Google Workspace</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CERTIFICATIONS -->
+    <section class="section certifications">
+
+        <div class="section-number">05</div>
+
+        <div class="section-content">
+
+            <p class="eyebrow">CERTIFICATIONS</p>
+
+            <h2>Always learning.</h2>
+
+            <div class="cert-list">
+
+```
+<div>
+    <span>01</span>
+    <h3>Content Marketing</h3>
+    <p>HubSpot Academy</p>
+</div>
+
+<div>
+    <span>02</span>
+    <h3>Social Media Marketing</h3>
+    <p>HubSpot Academy</p>
+</div>
+
+<div>
+    <span>03</span>
+    <h3>Digital Advertising</h3>
+    <p>HubSpot Academy</p>
+</div>
+```
+
+</div>
+
+
+                <div>
+                    <span>01</span>
+                    <h3>Content Marketing</h3>
+                    <p>HubSpot Academy</p>
+                </div>
+
+                <div>
+                    <span>02</span>
+                    <h3>Social Media Marketing</h3>
+                    <p>HubSpot Academy</p>
+                </div>
+
+                <div>
+                    <span>03</span>
+                    <h3>Digital Advertising</h3>
+                    <p>HubSpot Academy</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- PROJECTS -->
+    <section id="projects" class="section projects">
+
+        <div class="section-number">06</div>
+
+        <div class="section-content">
+
+            <p class="eyebrow">SELECTED WORK</p>
+
+            <h2>
+                Projects I'm<br>
+                proud of.
+            </h2>
+
+
+            <!-- PROJECTS -->
+
+<section id="projects" class="section projects">
+
+```
+<div class="section-number">06</div>
+
+<div class="section-content">
+
+    <p class="eyebrow">SELECTED WORK</p>
+
+    <h2>
+        Projects I'm<br>
+        proud of.
+    </h2>
+
+    <div class="project-card">
+
+        <div class="project-number">01</div>
+
+        <div>
+
+            <p class="project-category">
+                BRAND & CAMPAIGN
+            </p>
+
+            <h3>
+                Lakiwin Sari-Sari Store
+                Growth Campaign
+            </h3>
+
+            <p>
+                Developed campaign concepts, promotional mechanics,
+                and engagement strategies designed to connect with
+                sari-sari store owners and encourage business growth.
+                The campaign focused on accessible offers, store
+                engagement, and community-driven marketing.
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <div class="project-card">
+
+        <div class="project-number">02</div>
+
+        <div>
+
+            <p class="project-category">
+                EVENTS & ACTIVATIONS
+            </p>
+
+            <h3>
+                Brand Events & On-Ground Activations
+            </h3>
+
+            <p>
+                Coordinated marketing events and activations,
+                including supplier coordination, promotional
+                materials, logistics, campaign requirements,
+                and on-ground execution.
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <div class="project-card">
+
+        <div class="project-number">03</div>
+
+        <div>
+
+            <p class="project-category">
+                DIGITAL MARKETING
+            </p>
+
+            <h3>
+                Content & Social Media Campaigns
+            </h3>
+
+            <p>
+                Created marketing concepts, campaign messaging,
+                social media content, and digital materials designed
+                to communicate brand messages clearly and engage
+                target audiences.
+            </p>
+
+        </div>
+
+    </div>
+
+
+    <div class="project-card">
+
+        <div class="project-number">04</div>
+
+        <div>
+
+            <p class="project-category">
+                BRAND DEVELOPMENT
+            </p>
+
+            <h3>
+                Brand Development & Marketing Support
+            </h3>
+
+            <p>
+                Supported brand initiatives through campaign
+                development, promotional planning, marketing
+                coordination, and execution of brand-related
+                activities.
+            </p>
+
+        </div>
+
+    </div>
+
+</div>
+```
+
+</section>
+
+
+                <div class="project-number">01</div>
+
+                <div>
+
+                    <p class="project-category">
+                        BRAND & CAMPAIGN
+                    </p>
+
+                    <h3>
+                        Lakiwin Sari-Sari Store
+                        Growth Campaign
+                    </h3>
+
+                    <p>
+                        Developed campaign concepts and promotional
+                        mechanics designed to engage sari-sari store
+                        owners and encourage business growth.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <div class="project-number">02</div>
+
+                <div>
+
+                    <p class="project-category">
+                        EVENTS & ACTIVATION
+                    </p>
+
+                    <h3>
+                        Marketing Events & Activations
+                    </h3>
+
+                    <p>
+                        Planned and coordinated event requirements,
+                        suppliers, promotional materials, and
+                        on-ground activations.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <div class="project-number">03</div>
+
+                <div>
+
+                    <p class="project-category">
+                        DIGITAL MARKETING
+                    </p>
+
+                    <h3>
+                        Content & Social Media
+                    </h3>
+
+                    <p>
+                        Created marketing concepts, social content,
+                        campaign messaging, and digital marketing
+                        materials.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- CONTACT -->
+    <section id="contact" class="contact">
+
+        <p class="eyebrow">LET'S WORK TOGETHER</p>
+
+        <h2>
+            Have an idea?<br>
+            Let's make it happen.
+        </h2>
+
+        <a href="mailto:your-email@example.com" class="contact-email">
+            your-email@example.com
+        </a>
+
+        <div class="contact-links">
+
+           <a href="#">LinkedIn</a>
+
+<a href="#">Instagram</a>
+
+        </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer>
+
+        <p>© 2026 Kristine Lucena</p>
+
+        <p>Marketing • Brand • Events</p>
+
+    </footer>
+
+
+</body>
+</html>
